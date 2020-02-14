@@ -39,3 +39,8 @@ void my_cgi_function(Request request, Output output)
     output("Uri:", request.header["REQUEST_URI"]);
 }
 ```
+
+## Notes
+- stdout is redirected to stderr.
+- a simple cgiLog function is included for debug purpouses.
+- tested on linux only.
