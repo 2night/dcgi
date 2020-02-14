@@ -1,0 +1,6 @@
+name "dcgi"
+description "Simple and light CGI library for D"
+authors "Andrea Fontana"
+copyright "Copyright © 2020, 2night SpA"
+license "mit"
+target "library"
