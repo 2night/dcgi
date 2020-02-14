@@ -1,5 +1,5 @@
 # dcgi
-Simple and light [CGI](https://en.wikipedia.org/wiki/Common_Gateway_Interface) library for D
+Simple and light [CGI](https://en.wikipedia.org/wiki/Common_Gateway_Interface) library for D. [Documentation](https://dcgi.dpldocs.info/dcgi.html)
 
 ## Basic example
  
